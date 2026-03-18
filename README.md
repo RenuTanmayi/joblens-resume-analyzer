@@ -54,6 +54,9 @@ This allows the system to:
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
+
+---
 
 ## 📸 Screenshots
 
@@ -69,6 +72,8 @@ streamlit run app.py
 ### 🚀 Roadmap & Tips
 ![Roadmap](assets/roadmap_tips.jpg)
 
+---
+
 ## 📌 Future Improvements
 
 - Hybrid skill extraction (combine rule-based + AI for higher accuracy)
@@ -80,6 +85,16 @@ streamlit run app.py
 - Support for multiple file formats (DOCX, TXT)
 - Performance optimization using caching and batching
 - Improve threshold tuning for better match accuracy
+
+---
+
+## ⭐ Project Status
+
+🚧 **Actively Developed**
+
+This project is fully functional and demonstrates end-to-end resume analysis using NLP and semantic similarity.
+
+Future updates will focus on improving skill extraction accuracy, adding advanced AI features, and deploying the application for public use.
 
 ## ⭐ Project Status
 
