@@ -96,10 +96,3 @@ This project is fully functional and demonstrates end-to-end resume analysis usi
 
 Future updates will focus on improving skill extraction accuracy, adding advanced AI features, and deploying the application for public use.
 
-## ⭐ Project Status
-
-🚧 Actively Developed
-
-This project is fully functional and demonstrates end-to-end resume analysis using NLP and semantic similarity.
-
-Future updates will focus on improving skill extraction accuracy, adding advanced AI features, and deploying the application for public use.
