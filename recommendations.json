@@ -1,0 +1,542 @@
+{
+  "Python": {
+    "learning_resources": [
+      "Complete Python for Everybody Specialization on Coursera",
+      "Automate tasks using Python scripts (e.g., file management, web scraping)",
+      "Learn advanced Python topics (OOP, decorators, generators) via Real Python tutorials"
+    ],
+    "project_suggestions": [
+      "Build a data analysis project with Pandas and Matplotlib",
+      "Create a small web scraper to collect online data",
+      "Develop a portfolio automation script"
+    ]
+  },
+  "SQL": {
+    "learning_resources": [
+      "Take SQL for Data Science course on Coursera",
+      "Practice SQL queries on LeetCode and HackerRank",
+      "Learn relational database design and normalization"
+    ],
+    "project_suggestions": [
+      "Build a sample employee database and write queries",
+      "Create a small reporting dashboard using SQL + Python",
+      "Analyze a dataset using SQL aggregation functions"
+    ]
+  },
+  "R": {
+    "learning_resources": [
+      "Learn R for Data Science via Coursera or edX",
+      "Practice data cleaning and visualization using R",
+      "Study statistical analysis with R"
+    ],
+    "project_suggestions": [
+      "Perform exploratory data analysis on a dataset",
+      "Build statistical models to predict outcomes",
+      "Create dashboards using Shiny in R"
+    ]
+  },
+  "Java": {
+    "learning_resources": [
+      "Complete Java Programming Masterclass on Udemy",
+      "Learn Java OOP, Collections, and multithreading",
+      "Practice competitive programming in Java"
+    ],
+    "project_suggestions": [
+      "Build a Java console application",
+      "Develop a mini banking system project",
+      "Implement data structures and algorithms projects"
+    ]
+  },
+  "C++": {
+    "learning_resources": [
+      "Learn advanced C++ topics (STL, memory management, pointers)",
+      "Practice competitive programming on LeetCode/HackerRank",
+      "Follow C++ OOP tutorials"
+    ],
+    "project_suggestions": [
+      "Build a mini game in C++",
+      "Implement data structures (linked list, trees, graph) in C++",
+      "Solve algorithm challenges for practice"
+    ]
+  },
+  "Machine Learning": {
+    "learning_resources": [
+      "Take Andrew Ng’s Machine Learning course",
+      "Practice ML algorithms using scikit-learn",
+      "Learn model evaluation and hyperparameter tuning"
+    ],
+    "project_suggestions": [
+      "Predict house prices using regression",
+      "Build a classification model for a dataset",
+      "Create a recommendation system project"
+    ]
+  },
+  "Deep Learning": {
+    "learning_resources": [
+      "Take Deep Learning Specialization by Andrew Ng",
+      "Learn TensorFlow and PyTorch basics",
+      "Study CNNs, RNNs, and transformers"
+    ],
+    "project_suggestions": [
+      "Image classification using CNN",
+      "Sentiment analysis with RNN/transformers",
+      "Object detection using YOLO or TensorFlow"
+    ]
+  },
+  "NLP": {
+    "learning_resources": [
+      "Study NLP basics with spaCy tutorials",
+      "Take Natural Language Processing Specialization on Coursera",
+      "Learn text preprocessing, tokenization, embeddings, and transformers"
+    ],
+    "project_suggestions": [
+      "Sentiment analysis on reviews",
+      "Named Entity Recognition using spaCy",
+      "Text classification (spam detection/news categorization)"
+    ]
+  },
+  "Data Analysis": {
+    "learning_resources": [
+      "Practice data cleaning using Pandas and NumPy",
+      "Learn visualization using Matplotlib and Seaborn",
+      "Take a Data Analysis with Python or R course"
+    ],
+    "project_suggestions": [
+      "Analyze sales or survey datasets",
+      "Create dashboards for insights using PowerBI or Tableau",
+      "Perform exploratory data analysis for a Kaggle dataset"
+    ]
+  },
+  "Data Visualization": {
+    "learning_resources": [
+      "Learn Matplotlib, Seaborn, Plotly for Python",
+      "Take Tableau or PowerBI beginner courses",
+      "Study effective visualization principles"
+    ],
+    "project_suggestions": [
+      "Build interactive dashboards",
+      "Visualize a dataset in multiple ways (charts, heatmaps)",
+      "Create portfolio projects with dashboards"
+    ]
+  },
+  "HTML": {
+    "learning_resources": [
+      "Learn semantic HTML5",
+      "Build static web pages",
+      "Follow tutorials on responsive design"
+    ],
+    "project_suggestions": [
+      "Create a portfolio website",
+      "Design a landing page for a product",
+      "Build a small multi-page static site"
+    ]
+  },
+  "CSS": {
+    "learning_resources": [
+      "Learn CSS Flexbox and Grid layouts",
+      "Practice animations and transitions",
+      "Follow advanced CSS tutorials online"
+    ],
+    "project_suggestions": [
+      "Style portfolio pages or web apps",
+      "Create interactive menus and hover effects",
+      "Implement responsive design for mobile"
+    ]
+  },
+  "JavaScript": {
+    "learning_resources": [
+      "Learn ES6+ features and DOM manipulation",
+      "Take JavaScript tutorials on FreeCodeCamp",
+      "Practice event handling and async programming"
+    ],
+    "project_suggestions": [
+      "Build a todo app or calculator",
+      "Create dynamic web page interactions",
+      "Develop a small single-page app"
+    ]
+  },
+  "React": {
+    "learning_resources": [
+      "Follow React.js official documentation",
+      "Complete FreeCodeCamp React tutorials",
+      "Learn state management with Redux or Context API"
+    ],
+    "project_suggestions": [
+      "Build a portfolio website with React",
+      "Develop a task management app",
+      "Create a small API-driven web app"
+    ]
+  },
+  "Node.js": {
+    "learning_resources": [
+      "Build REST APIs using Express.js",
+      "Connect Node.js backend with MongoDB",
+      "Follow Node.js tutorials online"
+    ],
+    "project_suggestions": [
+      "Build a REST API for a sample app",
+      "Develop a small backend for your portfolio site",
+      "Create a CRUD application using Node.js + MongoDB"
+    ]
+  },
+  "MongoDB": {
+    "learning_resources": [
+      "Learn CRUD operations in MongoDB",
+      "Study aggregation pipelines",
+      "Practice schema design for projects"
+    ],
+    "project_suggestions": [
+      "Create a blog database backend",
+      "Store and query datasets for a web app",
+      "Build a small inventory management system"
+    ]
+  },
+  "Git": {
+    "learning_resources": [
+      "Learn Git commands for version control",
+      "Practice branching, merging, pull requests",
+      "Follow GitHub tutorials for collaboration"
+    ],
+    "project_suggestions": [
+      "Push all projects to GitHub",
+      "Collaborate on a group project using Git",
+      "Use GitHub Actions for CI/CD pipelines"
+    ]
+  },
+  "Docker": {
+    "learning_resources": [
+      "Learn Docker basics: containers, images, volumes",
+      "Follow Docker Compose tutorials",
+      "Understand containerized deployments"
+    ],
+    "project_suggestions": [
+      "Containerize a web or ML app",
+      "Build a multi-container app using Docker Compose",
+      "Deploy a containerized portfolio project"
+    ]
+  },
+  "Cloud": {
+    "learning_resources": [
+      "AWS Cloud Practitioner Essentials course",
+      "Learn Azure/GCP basics",
+      "Study serverless computing and cloud deployment"
+    ],
+    "project_suggestions": [
+      "Deploy a web app on AWS/Azure/GCP",
+      "Host a ML model on the cloud",
+      "Build a serverless workflow project"
+    ]
+  },
+  "DevOps": {
+    "learning_resources": [
+      "Learn CI/CD pipelines using Jenkins or GitHub Actions",
+      "Practice automated deployments",
+      "Follow DevOps tutorials for beginners"
+    ],
+    "project_suggestions": [
+      "Set up CI/CD for your portfolio app",
+      "Automate deployment of a web or ML project",
+      "Use Docker + cloud for end-to-end deployment"
+    ]
+  },
+  "Version Control": {
+    "learning_resources": [
+      "Practice Git branching and pull requests",
+      "Learn collaborative workflows",
+      "Study version control best practices"
+    ],
+    "project_suggestions": [
+      "Contribute to open-source projects",
+      "Maintain multiple versions of a portfolio project",
+      "Simulate team collaboration using Git"
+    ]
+  },
+  "Leadership": {
+    "learning_resources": [
+      "Take leadership and management courses online",
+      "Study effective team management techniques",
+      "Learn project planning and delegation"
+    ],
+    "project_suggestions": [
+      "Lead a small group project or hackathon team",
+      "Organize a coding or data study group",
+      "Mentor juniors on a mini-project"
+    ]
+  },
+  "Teamwork": {
+    "learning_resources": [
+      "Learn communication and collaboration skills",
+      "Take teamwork exercises and courses",
+      "Practice conflict resolution"
+    ],
+    "project_suggestions": [
+      "Work on a group coding or data project",
+      "Participate in hackathons or coding competitions",
+      "Collaborate on an open-source project"
+    ]
+  },
+  "Communication": {
+    "learning_resources": [
+      "Take online courses on effective communication",
+      "Practice explaining technical projects clearly",
+      "Write technical blogs or documentation"
+    ],
+    "project_suggestions": [
+      "Present your project to peers or mentors",
+      "Document a project in GitHub README",
+      "Create tutorial videos for small projects"
+    ]
+  },
+  "Problem-solving": {
+    "learning_resources": [
+      "Practice coding challenges on LeetCode/HackerRank",
+      "Study problem-solving techniques and algorithms",
+      "Take online critical thinking courses"
+    ],
+    "project_suggestions": [
+      "Solve algorithmic challenges regularly",
+      "Work on mini-projects that require debugging and design",
+      "Break complex projects into smaller tasks"
+    ]
+  },
+  "Generative AI": {
+    "learning_resources": [
+      "Take DeepLearning.AI's Generative AI with LLMs course",
+      "Learn Prompt Engineering techniques (Chain-of-Thought, Few-shot)",
+      "Study Fine-tuning of models like Llama 3 or Mistral"
+    ],
+    "project_suggestions": [
+      "Build a RAG (Retrieval-Augmented Generation) system for your own documents",
+      "Create a custom chatbot using OpenAI API or LangChain",
+      "Develop an AI-powered content summarizer"
+    ]
+  },
+  "LangChain": {
+    "learning_resources": [
+      "Follow LangChain official documentation and tutorials",
+      "Learn about Chains, Memory, and Agents in LLM workflows",
+      "Study vector store integrations (Pinecone, ChromaDB)"
+    ],
+    "project_suggestions": [
+      "Build an autonomous AI Agent that can browse the web",
+      "Create a multi-tool AI assistant for data analysis",
+      "Develop a PDF-to-Q&A tool using LangChain"
+    ]
+  },
+  "TinyML": {
+    "learning_resources": [
+      "Take Harvard's TinyML Professional Certificate on edX",
+      "Learn about model quantization and pruning for edge devices",
+      "Study TensorFlow Lite for Microcontrollers"
+    ],
+    "project_suggestions": [
+      "Implement a gesture recognition model on an Arduino or ESP32",
+      "Build a low-power keyword spotting system (e.g., 'Wake Word' detection)",
+      "Optimize a CNN to run on a mobile device using TFLite"
+    ]
+  },
+  "Apache Spark": {
+    "learning_resources": [
+      "Learn PySpark for big data processing",
+      "Study Spark SQL and DataFrames for large-scale analysis",
+      "Understand RDDs and distributed computing architecture"
+    ],
+    "project_suggestions": [
+      "Process a multi-gigabyte dataset using Spark on Databricks",
+      "Build a real-time log analyzer using Spark Streaming",
+      "Implement a recommendation engine on a large dataset"
+    ]
+  },
+  "Tableau": {
+    "learning_resources": [
+      "Take the Tableau Desktop Specialist certification prep",
+      "Learn data blending, calculated fields, and parameters",
+      "Study dashboard design best practices"
+    ],
+    "project_suggestions": [
+      "Create a comprehensive Sales performance dashboard",
+      "Build a geographic heatmap of global climate data",
+      "Develop a LinkedIn Profile analytics dashboard"
+    ]
+  },
+  "PowerBI": {
+    "learning_resources": [
+      "Learn DAX (Data Analysis Expressions) for complex calculations",
+      "Study Power Query for data transformation",
+      "Take Microsoft's PL-300 Power BI Data Analyst course"
+    ],
+    "project_suggestions": [
+      "Analyze financial statements and create a KPI dashboard",
+      "Build an HR attrition report with interactive filters",
+      "Connect PowerBI to a live SQL database for real-time reporting"
+    ]
+  },
+  "FastAPI": {
+    "learning_resources": [
+      "Follow the FastAPI 'Tutorial - User Guide'",
+      "Learn Pydantic for data validation",
+      "Study asynchronous programming in Python (async/await)"
+    ],
+    "project_suggestions": [
+      "Deploy an ML model as a high-performance REST API",
+      "Build a backend for a task-tracking application",
+      "Create a secure API with OAuth2 authentication"
+    ]
+  },
+  "Flask": {
+    "learning_resources": [
+      "Follow the Flask Mega-Tutorial by Miguel Grinberg",
+      "Learn Jinja2 templating and Blueprints",
+      "Study Flask-SQLAlchemy for database integration"
+    ],
+    "project_suggestions": [
+      "Develop a personal blog or portfolio site",
+      "Build a simple URL shortener",
+      "Create a microservice for data preprocessing"
+    ]
+  },
+  "PyTorch": {
+    "learning_resources": [
+      "Follow the 'Deep Learning with PyTorch' 60-minute blitz",
+      "Learn about Tensors, Autograd, and Neural Networks",
+      "Study PyTorch Lightning for scalable training"
+    ],
+    "project_suggestions": [
+      "Implement a custom Image Classifier from scratch",
+      "Build a Neural Style Transfer project",
+      "Train a Reinforcement Learning agent for a simple game"
+    ]
+  },
+  "TensorFlow": {
+    "learning_resources": [
+      "Complete the TensorFlow Developer Professional Certificate",
+      "Learn Keras API for building deep learning models",
+      "Study TensorFlow Extended (TFX) for production pipelines"
+    ],
+    "project_suggestions": [
+      "Build a time-series forecasting model for stock prices",
+      "Create a human pose estimation app using MediaPipe",
+      "Develop a GAN (Generative Adversarial Network) to generate art"
+    ]
+  },
+  "Web3 & Blockchain": {
+    "learning_resources": [
+      "Learn Solidity for smart contract development",
+      "Study Ethereum basics and decentralized apps (dApps)",
+      "Follow the CryptoZombies tutorial"
+    ],
+    "project_suggestions": [
+      "Deploy a simple 'Voting' smart contract on a testnet",
+      "Create a basic NFT minting website",
+      "Build a decentralized crowdfunding platform"
+    ]
+  },
+  "Vector Databases": {
+    "learning_resources": [
+      "Study Pinecone, Milvus, or Weaviate documentation",
+      "Learn about HNSW and IVF indexing methods",
+      "Understand the role of vector search in AI"
+    ],
+    "project_suggestions": [
+      "Build a semantic search engine for your personal library",
+      "Create an image-to-image similarity search tool",
+      "Implement a long-term memory for an AI agent"
+    ]
+  },
+  "MLOps": {
+    "learning_resources": [
+      "Study MLflow for experiment tracking",
+      "Learn about DVC (Data Version Control)",
+      "Take the MLOps Specialization by DeepLearning.AI"
+    ],
+    "project_suggestions": [
+      "Set up a pipeline to automatically retrain a model on new data",
+      "Build a model monitoring dashboard to detect drift",
+      "Implement version control for a large ML dataset"
+    ]
+  },
+  "Reinforcement Learning": {
+    "learning_resources": [
+      "Read 'Reinforcement Learning: An Introduction' by Sutton & Barto",
+      "Learn OpenAI Gym/Gymnasium for environment testing",
+      "Study Q-Learning and Policy Gradient methods"
+    ],
+    "project_suggestions": [
+      "Train an agent to play 'CartPole' or 'MountainCar'",
+      "Build a self-driving car simulation in a grid world",
+      "Develop an AI for a board game like Chess or Tic-Tac-Toe"
+    ]
+  },
+  "Computer Vision": {
+    "learning_resources": [
+      "Learn OpenCV for image processing techniques",
+      "Study object detection (YOLO, Faster R-CNN)",
+      "Follow PyImageSearch tutorials"
+    ],
+    "project_suggestions": [
+      "Build a real-time face mask detector",
+      "Create an OCR tool to read text from business cards",
+      "Develop an automated traffic counter using video feeds"
+    ]
+  },
+  "Excel (Advanced)": {
+    "learning_resources": [
+      "Learn Pivot Tables, VLOOKUP/XLOOKUP, and Power Pivot",
+      "Study VBA for automation macros",
+      "Master data cleaning with Excel's Power Query"
+    ],
+    "project_suggestions": [
+      "Build a dynamic financial budget tracker",
+      "Create an automated invoice generation system",
+      "Analyze survey data and generate a summary report"
+    ]
+  },
+  "Statistics": {
+    "learning_resources": [
+      "Take 'Introduction to Statistics' by Stanford on Coursera",
+      "Learn Hypothesis Testing, P-values, and Confidence Intervals",
+      "Study Bayesian statistics basics"
+    ],
+    "project_suggestions": [
+      "Perform an A/B test analysis on a sample marketing dataset",
+      "Build a statistical model to explain factors in life expectancy",
+      "Conduct a correlation analysis on social media engagement"
+    ]
+  },
+  "Cybersecurity (AI)": {
+    "learning_resources": [
+      "Learn about Adversarial Machine Learning",
+      "Study AI-powered threat detection techniques",
+      "Understand privacy-preserving ML (Federated Learning)"
+    ],
+    "project_suggestions": [
+      "Build a spam/phishing email classifier",
+      "Implement an anomaly detection system for network traffic",
+      "Develop a tool to detect deepfakes in images"
+    ]
+  },
+  "Kubernetes": {
+    "learning_resources": [
+      "Take the 'Kubernetes for Beginners' course on KodeKloud",
+      "Learn about Pods, Deployments, and Services",
+      "Practice with Minikube locally"
+    ],
+    "project_suggestions": [
+      "Deploy a scalable web app across a local K8s cluster",
+      "Set up a rolling update for a containerized microservice",
+      "Implement an auto-scaling ML inference service"
+    ]
+  },
+  "Linux & Bash": {
+    "learning_resources": [
+      "Learn basic command line operations (ls, cd, grep, awk)",
+      "Study Bash scripting for workflow automation",
+      "Take the 'Linux Command Line' course on Coursera"
+    ],
+    "project_suggestions": [
+      "Write a script to automate daily data backups",
+      "Build a system resource monitoring tool in Bash",
+      "Automate the setup of a Python development environment"
+    ]
+  }
+}
